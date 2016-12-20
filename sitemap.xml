@@ -2,5 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
     <loc>http://www.camerontransports.com/</loc> 
+    <image:image>
+      <image:loc>http://camerontransports.com/images/slider/File_001.jpeg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://camerontransports.com/images/slider/File_002.jpeg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://camerontransports.com/images/slider/one.jpeg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://camerontransports.com/images/slider/three.jpeg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+     <image:image>
+      <image:loc>http://camerontransports.com/images/works/File_000.jpeg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+     <image:image>
+      <image:loc>http://camerontransports.com/images/works/File_003.jpeg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+     <image:image>
+      <image:loc>http://camerontransports.com/images/works/img3.jpg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+     <image:image>
+      <image:loc>http://camerontransports.com/images/works/img2.jpg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+     <image:image>
+      <image:loc>http://camerontransports.com/images/works/img4.jpg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+     <image:image>
+      <image:loc>http://camerontransports.com/images/works/two.jpeg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
+     <image:image>
+      <image:loc>http://camerontransports.com/images/works/img7.jpg</image:loc>
+      <image:caption>Cameron Transport Niagara Falls and Rochester</image:caption>
+    </image:image>
   </url>
 </urlset>

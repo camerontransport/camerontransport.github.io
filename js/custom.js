@@ -179,7 +179,7 @@ $(".testimonials-carousel").owlCarousel({
 	 })(jQuery);
 
 	$('.collapse ul li a').click(function(){ 
-	$('.navbar-toggle:visible').click();
+	$('.navbar-toggle : visible').click();
 });	
 
 
